@@ -1,7 +1,7 @@
 # Video Game Sales Data Analysis Using SQL
 
 ## Project Overview
-This analyzes video game sales data using SQL to identify sales trends, top-performing genres, regional market performance, and publisher insights. The analysis helps uncover patterns in the gaming industry and demonstrates SQL skills for data analytics.
+This analyzes video game sales data using SQL Server Management to identify sales trends, top-performing genres, regional market performance, and publisher insights. The analysis helps uncover patterns in the gaming industry and demonstrates SQL skills for data analytics.
 ---
 ## Objectives
 - Analyze global video game sales trends
@@ -16,7 +16,6 @@ This analyzes video game sales data using SQL to identify sales trends, top-perf
 - SQL
 - Excel
 - GitHub
-- Tableau
 
 ---
 
